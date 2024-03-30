@@ -18,5 +18,5 @@ class FlaskRoutesTestCase(unittest.TestCase):
         data = json.loads(response.data.decode('utf-8'))
         self.assertIn('prediction', data)
 
-if _name_ == '_main_':
+if __name__ == '__main__':
     unittest.main()

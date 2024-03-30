@@ -10,5 +10,5 @@ class ModelTestCase(unittest.TestCase):
         prediction = self.model.predict(example_features)
         self.assertIn(prediction[0], [0, 1, 2])
 
-if _name_ == '_main_':
+if __name__ == '__main__':
     unittest.main()
