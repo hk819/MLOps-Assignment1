@@ -19,4 +19,4 @@ jobs:
           pip install -r requirements.txt
       - name: Run Tests
         run: |
-           python -m unittest discover -s test -p "test*.py"
+         for file in tests/*.py; do python -m unittest $file  done
