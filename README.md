@@ -4,32 +4,32 @@ Hania Khan (20I-0819), Laiba Mehmood (20I-0700)
 
 
 # Setting Permissions 
-![Setting Permissions](./setting%20perm.PNG)
+![Setting Permissions](./ss/setting%20perm.PNG)
 
 # Approval REquired
-![Approval Required](./approve%20required.PNG)
+![Approval Required](./ss/approve%20required.PNG)
 
 # Code Review
-![Code Review](./code%20review.PNG)
+![Code Review](./ss/code%20review.PNG)
 
 # Model Training
-![Model Training](./model%20train.PNG)
+![Model Training](./ss/model%20train.PNG)
 
 # Flask Build
-![Flask Build](./flask%20build.PNG)
+![Flask Build](./ss/flask%20build.PNG)
 
 # Flask App
-![Flask App](./flask%20app.PNG)
+![Flask App](./ss/flask%20app.PNG)
 
 # Docker Image
-![Docker Image](./docker%20image.PNG)
+![Docker Image](./ss/docker%20image.PNG)
 
 # All Test Cases Passed
-![All Test Cases Passed](./passed%20testcases.PNG)
+![All Test Cases Passed](./ss/passed%20testcases.PNG)
 
 # NGINX
-![NGINX](./ngnix%20configure.PNG)
+![NGINX](./ss/ngnix%20configure.PNG)
 
 # JENKINS
-![Jenkins](./jenkins%20pipeline.PNG)
+![Jenkins](./ss/jenkins%20pipeline.PNG)
 
